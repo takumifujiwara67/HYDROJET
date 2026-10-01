@@ -100,14 +100,6 @@ This proposal explores a self-sustaining propulsion philosophy:
 
 This repository is a concept exploration and not a validated aerospace engineering design. The performance figures and technical claims should be treated as theoretical assumptions rather than proven operational data.
 
-## Suggested Next Steps
-
-A more rigorous next step would be to turn this repository into:
-
-- a formal technical architecture document
-- system block diagrams
-- a propulsion and thermodynamic analysis
-- a feasibility review of materials, temperatures, and operating limits
 
 ## License
 
